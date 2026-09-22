@@ -12,3 +12,6 @@ error.log
 # РљСЌС€ Python
 __pycache__/
 *.pyc
+
+# Текст учебного задания (не коммитим)
+Prompt.md
